@@ -1,5 +1,32 @@
-nav#navigation {
-	width: 40%;
-	background-color: #777;
+#nagivation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+    text-align: center;
+
+}
+
+#navigation li {
 	float: right;
+}
+
+#navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+}
+
+
+#navigation li a:hover {
+    background-color: #222222;
+}
+
+.active{
+	background-color: #2ecc71;
+	color:white;
 }
