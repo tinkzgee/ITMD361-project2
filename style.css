@@ -1,16 +1,15 @@
-#nagivation ul {
+#navigation ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
-
     text-align: center;
 
 }
 
 #navigation li {
-	float: right;
+	float: middle;
 }
 
 #navigation li a {
@@ -23,10 +22,10 @@
 
 
 #navigation li a:hover {
-    background-color: #222222;
+    background-color: #FF1493;
 }
 
-.active{
-	background-color: #2ecc71;
+.olu{
+	background-color: #FF69B4;
 	color:white;
 }
