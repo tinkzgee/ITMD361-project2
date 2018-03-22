@@ -1,64 +1,51 @@
 body {
-padding: 0 100px 100px 100px;
-background-size: 1800px 900px;
-background-repeat:no-repeat;
-background-color: black;
-
+  padding: 0 100px 100px 100px;
+  background-size: 1800px 900px;
+  background-repeat: no-repeat;
+  background-color: black;
 }
-
-
 h1 {
-    color:white;
-    font-family: 'Eras Medium ITC';
+  color: white;
+  font-family: 'Eras Medium ITC';
 }
-
-h3{
-    color: white;
-    font-family: 'Eras light ITC';
+h3 {
+  color: white;
+  font-family: 'Eras light ITC';
 }
-p{
-    color: white;
-    font-family: 'Eras demi ITC';
+p {
+  color: white;
+  font-family: 'Eras demi ITC';
 }
-
-h2{
-    color: white;
-    font-family: 'Felix Titling';
+h2 {
+  color: white;
+  font-family: 'Felix Titling';
 }
-
-li{
-    color: white;
-    font-family: 'Century Gothic';
+li {
+  color: white;
+  font-family: 'Century Gothic';
 }
 #navigation ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    text-align: center;
-
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  text-align: center;
 }
-
 #navigation li {
-    padding: 0;
-	
+  padding: 0;
 }
-
 #navigation li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 1em;
-    text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  text-decoration: none;
 }
-
-
 #navigation li a:hover {
-    background-color: #FF1493;
+  background-color: #FF1493;
 }
-
-.olu{
-	background-color: #FF69B4;
-	color:white;
+.olu {
+  background-color: #FF69B4;
+  color: white;
 }
