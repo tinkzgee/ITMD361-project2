@@ -18,14 +18,17 @@ h3{
 }
 p{
     color: white;
+    font-family: 'Eras demi ITC';
 }
 
 h2{
     color: white;
+    font-family: 'Felix Titling';
 }
 
 li{
     color: white;
+    font-family: 'Century Gothic';
 }
 #navigation ul {
     list-style-type: none;
@@ -39,7 +42,7 @@ li{
 
 #navigation li {
     padding: 0;
-	float: center;
+	
 }
 
 #navigation li a {
