@@ -49,3 +49,14 @@ li {
   background-color: #FF69B4;
   color: white;
 }
+
+#title {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#title h3 h1 {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
