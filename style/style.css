@@ -60,3 +60,18 @@ li {
   margin-right: auto;
   margin-left: auto;
 }
+
+img.title {
+  text-align: center;
+}
+
+img.asa {
+  text-align: center;
+  width: 700px;
+  height: 400px;
+}
+
+img.welcome {
+  text-align: center;
+  width: 400px;
+  height: 50px;
