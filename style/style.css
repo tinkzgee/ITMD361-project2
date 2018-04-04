@@ -75,3 +75,15 @@ img.welcome {
   text-align: center;
   width: 400px;
   height: 50px;
+}
+
+#green {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.green {
+  float: right;
+  width: 400px;
+  height: 400px;
+}
